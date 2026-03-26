@@ -39,3 +39,12 @@ p span {
 li {
   margin-bottom: 10px;
 }
+.read_more {
+  color: black;
+  text-decoration: none;
+}
+
+.read_more:hover {
+  color: #444;
+  text-decoration: underline;
+}
