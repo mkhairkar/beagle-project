@@ -1,0 +1,41 @@
+.section_1 {
+  border: 2px solid #000000; /* A solid black border */
+
+  /* Spacing */
+  padding: 12px; /* Space inside the box, between text and border */
+}
+
+h1 {
+  text-decoration: underline;
+  margin-bottom: 22px;
+}
+
+p span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.read_more {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.section_2 img {
+  width: 300px;
+}
+
+.dog_container {
+  margin-bottom: 12px;
+}
+
+.section_3 {
+  margin-top: 12px;
+}
+
+.list_container {
+  padding: 0px, 18px;
+}
+
+li {
+  margin-bottom: 10px;
+}
